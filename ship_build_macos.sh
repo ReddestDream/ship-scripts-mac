@@ -8,4 +8,5 @@ cmake --build build-cmake --target GenerateSohOtr
 cmake --build build-cmake --config Release
 cd build-cmake
 cpack
+cd ..
 cmake --build build-cmake --target clean
