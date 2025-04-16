@@ -1,5 +1,5 @@
 #!/bin/bash
-git clone --recursive -b ship-blair https://github.com/ReddestDream/Shipwright
+git clone --recursive -b ship https://github.com/ReddestDream/Shipwright
 cd Shipwright
 rm -rf libultraship
 git clone --recursive -b ship https://github.com/ReddestDream/libultraship
